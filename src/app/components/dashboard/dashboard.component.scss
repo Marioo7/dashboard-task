@@ -1,0 +1,249 @@
+.menu{
+
+width: 115px;
+height: 1080px;
+background: #FF7F5C 0% 0% no-repeat padding-box;
+border-radius: 0px 30px 30px 0px;
+opacity: 1;
+}
+.nav{
+width: 1805px;
+height: 124px;
+background: #FFFFFF  0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.icons-center{
+  margin-top: -60px;
+}
+.icons-bottom{
+  margin-bottom: 90px;
+}
+.arrow{
+  font-size: 25px;
+  color: #FF7F5C;
+}
+.rectangle{
+  font-size: 35px;
+  color: #FF7F5C;
+}
+.header-date{
+  margin-left: 70px;
+}
+.days{
+  margin-right: 70px;
+}
+.gap-date{
+  gap:100px
+}
+.line-date{
+  border: 2px solid #3D5161;
+}
+.topic-one{
+width: 10px;
+height: 10px;
+background: #FF7F5C 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-top: 30px;
+}
+.topic-one-black{
+  width: 10px;
+  height: 10px;
+  background: #B9CDE2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  margin-top: 30px;
+  }
+.topic-two{
+  color: #3D5161;
+  width: 53px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+}
+.topic-three{
+  color: #3D5161;
+  width: 61px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+}
+.topic-circle{
+width: 472px;
+height: 44px;
+background: #F9F5F3 0% 0% no-repeat padding-box;
+border-radius: 30px;
+opacity: 1;
+}
+.topic-today{
+  padding: 10px 30px;
+  background-color:#FF7F5C ;
+  border-radius: 30px;
+}
+.bg-bodyy {
+background-color: #F9F5F3 ;
+width: 1805px;
+height: 955px;
+}
+.sec-content{
+  margin: 67px 70px 89px 92px;
+}
+.sec-one{
+  width: 1200px;
+  height: 163px;
+}
+.sec-two{
+  width: 510px;
+
+}
+.div-main-color{
+  background-color: #F4DBD4;
+  width: 269px;
+  border-radius: 24px;
+}
+.div-main{
+  background-color: #FFFFFF;
+  width: 269px;
+  border-radius: 24px;
+}
+.gap-over{
+  gap: 105px;
+}
+.part-two{
+  width: 310px;
+  height: 44px;
+  background-color: #FFFFFF;
+  border-radius: 30px;
+}
+progress[value] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 297px;
+  height: 6px;
+  border-radius: 20px;
+}
+
+.progress-red::-webkit-progress-bar {
+  background-color: #F4DBD4;
+  border-radius: 20px;
+}
+.progress-blue::-webkit-progress-bar {
+  background-color: #F4DBD4;
+  border-radius: 20px;
+}
+.progress-orange::-webkit-progress-bar {
+
+  border-radius: 20px;
+}
+
+.progress-red::-webkit-progress-value {
+  background-color: #FF7F5C;
+  border-radius: 20px;
+}
+
+.progress-blue::-webkit-progress-value {
+  background-color: #B9CDE2;
+  border-radius: 20px;
+}
+
+
+
+/* For Firefox */
+.progress-red::-moz-progress-bar {
+  background-color: #FF7F5C;
+  border-radius: 20px;
+}
+
+.progress-blue::-moz-progress-bar {
+  background-color: #B9CDE2;
+  border-radius: 20px;
+}
+
+.selected {
+  background-color: #FF7F5C;
+  color: #FFFFFF;
+  border-radius: 30px;
+  width: 145px;
+height: 39px;
+}
+.no-select{
+  width: 145px;
+  height: 39px;
+}
+
+.selected * {
+  color: #FFFFFF;
+}
+.selected img {
+  filter: brightness(0) invert(1);
+}
+ .content{
+   background-color: #FFFFFF;
+   width: 1200px;
+   height: 193px;
+   border-radius: 24px;
+ }
+ .content-chart{
+  background-color: #FFFFFF;
+  width: 1200px;
+  height: 407px;
+  border-radius: 24px;
+}
+
+.scroll-container {
+  overflow-y: scroll;
+}
+
+/* For Firefox */
+.scroll-container {
+  scrollbar-width: thin;
+  scrollbar-color: #FF7F5C #f1f1f1;
+  height: 580px;
+}
+
+
+.scroll-container::-webkit-scrollbar {
+  width: 5px;
+  height: 305px;
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+  background-color: #FF7F5C;
+  border-radius: 10px;
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover {
+  background-color: #FF4F3C;
+}
+
+
+
+
+.topic-sec-one{
+  width: 220px;
+}
+.three-dots{
+  color: #3D5161;
+  font-size: 30px;
+}
+.line{
+  border:1px solid #E0E7F1ed;
+}
+.gap-section{
+gap: 100px;
+}
+.gap-table-2{
+  gap: 70px;
+}
+.gap-table{
+  gap: 50px;
+  }
+.sales-text{
+  color: #FF7F5C;
+}
+.line-div{
+  border-bottom: 4px solid #FF7F5C;
+  border-radius: 4px;
+  position:relative;
+  top: 15px;
+}
